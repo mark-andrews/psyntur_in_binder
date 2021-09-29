@@ -1,0 +1,7 @@
+name: psyntur_binderized
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base>=4
+  - r-tidyverse
